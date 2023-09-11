@@ -39,7 +39,7 @@
       </q-list>
     </q-drawer>
 
-    <q-page-container>
+    <q-page-container class="bg-primary">
       <router-view />
     </q-page-container>
   </q-layout>
